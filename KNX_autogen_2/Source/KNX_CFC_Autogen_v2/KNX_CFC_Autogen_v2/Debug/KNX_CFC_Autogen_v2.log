@@ -1,0 +1,117 @@
+﻿  Source.cpp
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Tools.h(71,9): warning C4551: function call missing argument list
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(109,17): error C2065: 'string': undeclared identifier
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(109,24): error C2146: syntax error: missing ';' before identifier 'k'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(109,24): error C2065: 'k': undeclared identifier
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(110,21): error C2065: 'k': undeclared identifier
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(166,17): warning C4551: function call missing argument list
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(207,17): error C2065: 'string': undeclared identifier
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(207,24): error C2146: syntax error: missing ';' before identifier 'k'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(207,24): error C2065: 'k': undeclared identifier
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(208,21): error C2065: 'k': undeclared identifier
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(234,25): error C3861: 'Knx_cfc_Lh_CMD': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(265,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(266,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(272,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(273,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(274,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(280,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(281,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(282,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(283,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(289,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(290,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(291,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(292,17): error C3861: 'Knx_cfc_Lc': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(298,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(299,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(300,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(301,112): error C2660: 'Knx_cfc_Ry': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1868,6): message : see declaration of 'Knx_cfc_Ry'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(307,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(308,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(309,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(310,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(311,17): error C3861: 'Knx_cfc_Lc': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(317,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(318,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(319,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(320,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(321,112): error C2660: 'Knx_cfc_Ry': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1868,6): message : see declaration of 'Knx_cfc_Ry'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(327,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(328,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(329,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(330,17): error C3861: 'Knx_cfc_Lc': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(331,112): error C2660: 'Knx_cfc_Ry': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1868,6): message : see declaration of 'Knx_cfc_Ry'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(337,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(338,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(339,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(340,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(341,17): error C3861: 'Knx_cfc_Lc': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(342,112): error C2660: 'Knx_cfc_Ry': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1868,6): message : see declaration of 'Knx_cfc_Ry'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(348,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(349,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(350,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(351,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(358,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(359,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(360,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(361,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(362,17): error C3861: 'Knx_cfc_Lc': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(369,112): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(370,112): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(371,17): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(372,114): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(373,112): error C2660: 'Knx_cfc_Ry': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1868,6): message : see declaration of 'Knx_cfc_Ry'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(380,108): error C2660: 'Knx_cfc_Rt': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(501,6): message : see declaration of 'Knx_cfc_Rt'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(381,108): error C2660: 'Knx_cfc_Rb': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(668,6): message : see declaration of 'Knx_cfc_Rb'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(382,13): error C3861: 'Knx_cfc_Lh': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(383,110): error C2660: 'Knx_cfc_Hvac': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1078,6): message : see declaration of 'Knx_cfc_Hvac'
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(384,13): error C3861: 'Knx_cfc_Lc': identifier not found
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_v2.h(385,108): error C2660: 'Knx_cfc_Ry': function does not take 9 arguments
+C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Knx_Items_v2.h(1868,6): message : see declaration of 'Knx_cfc_Ry'
